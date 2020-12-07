@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394362253425",
+    "project_id": "oopswha",
+    "storage_bucket": "oopswha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394362253425:android:51a8155ad456258f4aebd0",
+        "android_client_info": {
+          "package_name": "angelayu.oopswhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394362253425-v9j6s5sutlle0k81u1cg6427hmtqa32i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "angelayu.oopswhat",
+            "certificate_hash": "5248c400a23d3292f6eb892907453ea341eeeec5"
+          }
+        },
+        {
+          "client_id": "394362253425-1gvok1igil3q45klub7jcv1pbekt7679.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASDYGyhOeo0dYlxjnGsLBAZkP3TFGrfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394362253425-1gvok1igil3q45klub7jcv1pbekt7679.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
